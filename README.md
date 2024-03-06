@@ -18,9 +18,17 @@ These are some of the frequently asked questions by clients. Offering them a cal
 Investors or borrowers do not need any special installation for this calculator as it can be put on your website to enable your clients to access it online
 
 INSTRUCTIONS: 
+
 Step 1: Users are asked to choose 'investment' or 'bond' options. 'Investment' option is for savers, while 'bond' option is for borrowers. 
+
 Step 2: They are expected to put the lump sum amount they want to invest or borrow
+
 Step 3: They are asked to enter the applicable interest rate for the investment or the mortgage
+
 Step 4: If they selected investment option, they will be asked to enter 'simple' or 'compound' interest rate
-Step 5: Finally, they are asked to enter the number of years they want to keep their money invested or the number of years they want to repay their mortgage for
+
+Step 5: Finally, they are asked to enter the number of years they want to keep their money invested or the number of years they want to repay their mortgage for;
+
 Step 6: They will get a one line result, which will help them make informed decisions about their money or borrowing.
+
+![image](https://github.com/Londoner03/finalCapstone/assets/156614047/57858fa6-ce0e-4f3b-a635-be9d6157a49a)
